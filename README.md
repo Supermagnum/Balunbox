@@ -15,6 +15,8 @@ Instant gasket or similar.
 
 The box with the lid removed:
 https://github.com/Supermagnum/Balunbox/blob/main/balunbox.png
+( Some net browser can display stl files, so here is a link to the stl file:
+https://github.com/Supermagnum/Balunbox/blob/main/balunbox-box.stl )
 
 With the lid:
 https://github.com/Supermagnum/Balunbox/blob/main/balunbox-lid.png
