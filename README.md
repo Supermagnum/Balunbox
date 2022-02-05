@@ -5,6 +5,9 @@ And,yes I know that someone will insist that 1:4 is wrong,
 and it should be written 4:1. The issue with that is the way we write, so the antenna side is on the right side, and the unbalanced coax on the left side.
 That way the coax "faces" the start of the sentence.
 As a European the 4:1 feels backwards and ackward.
+If you don't agree and feel that it needs to be corrected,
+fork this repository and do so.
+https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 Windings:
 The 1:4 guanella balun will need two TX58/41/18-4C65 cores with 16 turns #16 single core transformer wire, or PTFE silver covered multi strand wire.  
@@ -37,5 +40,8 @@ https://github.com/Supermagnum/Balunbox/blob/main/LICENSE
 
 Made with: 
 https://www.freecadweb.org/
+
+License ( please read):
+https://github.com/Supermagnum/Balunbox/blob/main/LICENSE
  
  73!
