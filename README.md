@@ -1,7 +1,8 @@
 # Balunbox
 A box for a 1:4 ( 50 ohms unbalanced to 200 ohms balanced ) balun composed of  TX58/41/18-4C65 cores.
 Its possible to add a third, as a extra choke if needed. 
-And,yes I know that someone will insist that 1:4 is wrong,
+
+I know that someone will insist that 1:4 is wrong,
 and it should be written 4:1. The issue I have with that is the way we write, so the antenna side is on the right side, and the unbalanced coax on the left side.
 That way the coax "faces" the start of the sentence.
 As a European the 4:1 feels backwards and ackward.
@@ -35,13 +36,12 @@ How much choking impedance one can expect from the choke alone:
 https://github.com/Supermagnum/Balunbox/blob/main/choke.jpg
  TX58/41/18-4C65 is similar to mix 61.
 
-License ( read it, important! ):
+License for the box ( please read):
 https://github.com/Supermagnum/Balunbox/blob/main/LICENSE
+ 
 
 Made with: 
 https://www.freecadweb.org/
 
-License ( please read):
-https://github.com/Supermagnum/Balunbox/blob/main/LICENSE
- 
+
  73!
