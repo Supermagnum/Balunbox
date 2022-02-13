@@ -21,6 +21,7 @@ Should handle up 2000 W 160 meters to 6 meters.
 You will need suitable bolts, two 4 mm banana tie posts, a SO-239 coax connector, soldering iron and 16# wire as mentioned.
 Instant gasket or similar.
 
+
 The box with the lid removed:
 https://github.com/Supermagnum/Balunbox/blob/main/balunbox.png
 ( Some net browser can display stl files, so here is a link to the stl file:
@@ -38,6 +39,12 @@ https://github.com/Supermagnum/Balunbox/blob/main/choke.jpg
 
 License for the box ( please read):
 https://github.com/Supermagnum/Balunbox/blob/main/LICENSE
+
+BEWARE ! Printing this will use around 80 meters of PETG filament and several hours of printing !
+The toroid holders only, that can be superglued inside a suitable box is here:
+https://github.com/Supermagnum/Balunbox/tree/main/toroid-holder
+Those are a lot faster to print, and should not consume that enourmous amount of filament.
+
  
 
 Made with: 
