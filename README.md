@@ -13,6 +13,10 @@ https://docs.github.com/en/get-started/quickstart/fork-a-repo
 Windings:
 The 1:4 guanella balun will need two TX58/41/18-4C65 cores with 16 turns #16 single core transformer wire, or PTFE silver covered multi strand wire.  
 The extra choke needs a TX58/41/18-4C65 or a FT240-61 or a FT240-XX core with 17 turns 50 ohms PTFE coax for maximum current choking.
+Suggested coax: https://www.dx-wire.de/kabeldraehtelitzen/koaxkabel-teflon-ptfe/dxw50-spezial-ptfe-koaxkabel-50.html
+
+TX58/41/18-4C65: https://www.dx-wire.de/ferriteringkerne/ringkerne-fuer-balunuebertrager/ringkern-tx584118-4c65.html
+
 
 There are STL files for 3D printing. PETG is recommended.
 
@@ -20,6 +24,8 @@ Should handle up 2000 W 160 meters to 6 meters.
 
 You will need suitable bolts, two 4 mm banana tie posts, a SO-239 coax connector, soldering iron and 16# wire as mentioned.
 Instant gasket or similar.
+Suggested wire:
+https://www.dx-wire.de/kabeldraehtelitzen/ptfe-teflon-litzen-und-draehte/ptfe-teflon-litze-awg16-schwarz.html
 
 
 The box with the lid removed:
