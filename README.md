@@ -11,7 +11,7 @@ fork this repository and do so.
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 Windings:
-The 1:4 guanella balun will need two TX58/41/18-4C65 cores with 16 turns #16 single core transformer wire, or PTFE silver covered multi strand wire.  
+The 1:4 guanella balun will need two TX58/41/18-4C65 cores with 16 turns bifilar #16 single core transformer wire, or PTFE silver covered multi strand wire.  
 The extra choke needs a TX58/41/18-4C65 or a FT240-61 or a FT240-XX core with 17 turns 50 ohms PTFE coax for maximum current choking.
 Suggested coax: https://www.dx-wire.de/kabeldraehtelitzen/koaxkabel-teflon-ptfe/dxw50-spezial-ptfe-koaxkabel-50.html
 
