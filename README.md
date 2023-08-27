@@ -20,6 +20,9 @@ TX58/41/18-4C65: https://www.dx-wire.de/ferriteringkerne/ringkerne-fuer-balunueb
 
 There are STL files for 3D printing. PETG is recommended.
 
+Toroid holders:
+https://github.com/Supermagnum/Balunbox/tree/main/toroid-holder
+
 Should handle up 2000 W 160 meters to 6 meters.
 
 You will need suitable bolts, two 4 mm banana tie posts, a SO-239 coax connector, soldering iron and 16# wire as mentioned.
