@@ -43,6 +43,9 @@ How much choking impedance one can expect from the choke alone:
 https://github.com/Supermagnum/Balunbox/blob/main/choke.jpg
  TX58/41/18-4C65 is similar to mix 61.
 
+Build picture:
+https://github.com/Supermagnum/Balunbox/blob/main/FB_IMG_1677259916192.jpg
+
 License for the box ( please read):
 https://github.com/Supermagnum/Balunbox/blob/main/LICENSE
 
